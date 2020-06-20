@@ -118,3 +118,6 @@ Built upon the work by [Gosha Arinich](https://github.com/goshakkk/react-native-
 ## License
 
 MIT.
+
+##
+Use expo snack to try it!
